@@ -1,0 +1,19 @@
+<! DOCTYBE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Ozime unagan</title>
+    </head>
+    <body>
+        <h1>Sandi qatar</h1>
+        <br>
+        <ol>
+            <li>Boranbaeva Jazira</li>
+            <li>Qurbanbaev Beksultan</li>
+            <li>Aytmuratov Ibiraxim</li>
+            <li>Sagitjanova Mawpak</li>
+            <li>Esbosbosinova Dinara</li>
+        </ol>
+    </body>
+</html>
